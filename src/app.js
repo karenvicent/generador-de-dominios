@@ -13,8 +13,7 @@ window.onload = function() {
 var pronoun = ["the", "our"];
 var adj = ["great", "big"];
 var noun = ["jogger", "racoon"];
-var extensiones = [".com", ".net", ".us", ".io", ".co"];
-
+var extensiones = [".com", ".net", ".us", ".io", ".co", ".es"];
 for (var i = 0; i < adj.length; i++) {
   for (var j = 0; j < pronoun.length; j++) {
     for (var k = 0; k < noun.length; k++) {
